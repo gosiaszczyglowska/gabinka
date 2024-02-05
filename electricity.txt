@@ -13,3 +13,5 @@ I'll give you electricity
 Give it to you
 
 New commit for feature branch
+
+One more commit for feature branch
